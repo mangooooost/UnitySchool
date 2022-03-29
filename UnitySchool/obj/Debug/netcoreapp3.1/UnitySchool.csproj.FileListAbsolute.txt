@@ -1,0 +1,13 @@
+/Users/svetapetrova/Projects/UnitySchool/UnitySchool/bin/Debug/netcoreapp3.1/UnitySchool.deps.json
+/Users/svetapetrova/Projects/UnitySchool/UnitySchool/bin/Debug/netcoreapp3.1/UnitySchool.runtimeconfig.json
+/Users/svetapetrova/Projects/UnitySchool/UnitySchool/bin/Debug/netcoreapp3.1/UnitySchool.runtimeconfig.dev.json
+/Users/svetapetrova/Projects/UnitySchool/UnitySchool/bin/Debug/netcoreapp3.1/UnitySchool.dll
+/Users/svetapetrova/Projects/UnitySchool/UnitySchool/bin/Debug/netcoreapp3.1/UnitySchool.pdb
+/Users/svetapetrova/Projects/UnitySchool/UnitySchool/obj/Debug/netcoreapp3.1/UnitySchool.csproj.AssemblyReference.cache
+/Users/svetapetrova/Projects/UnitySchool/UnitySchool/obj/Debug/netcoreapp3.1/UnitySchool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svetapetrova/Projects/UnitySchool/UnitySchool/obj/Debug/netcoreapp3.1/UnitySchool.AssemblyInfoInputs.cache
+/Users/svetapetrova/Projects/UnitySchool/UnitySchool/obj/Debug/netcoreapp3.1/UnitySchool.AssemblyInfo.cs
+/Users/svetapetrova/Projects/UnitySchool/UnitySchool/obj/Debug/netcoreapp3.1/UnitySchool.csproj.CoreCompileInputs.cache
+/Users/svetapetrova/Projects/UnitySchool/UnitySchool/obj/Debug/netcoreapp3.1/UnitySchool.dll
+/Users/svetapetrova/Projects/UnitySchool/UnitySchool/obj/Debug/netcoreapp3.1/UnitySchool.pdb
+/Users/svetapetrova/Projects/UnitySchool/UnitySchool/obj/Debug/netcoreapp3.1/UnitySchool.genruntimeconfig.cache
